@@ -1,0 +1,33 @@
+{
+  "name": "passport-mixer",
+  "version": "1.0.0",
+  "description": "Mixer (OAuth) authentication strategies for Passport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sami-M/passport-mixer.git"
+  },
+  "keywords": [
+    "passport",
+    "mixer",
+    "auth",
+    "authentication",
+    "identity",
+    "oauth",
+    "oauth2",
+    "strategy"
+  ],
+  "author": "Sami-M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sami-M/passport-mixer/issues"
+  },
+  "homepage": "https://github.com/Sami-M/passport-mixer#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0",
+    "pkginfo": "^0.4.1"
+  }
+}
