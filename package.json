@@ -2,7 +2,7 @@
   "name": "passport-mixer",
   "version": "1.0.0",
   "description": "Mixer (OAuth) authentication strategies for Passport.",
-  "main": "index.js",
+  "main": "./lib/passport-mixer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
