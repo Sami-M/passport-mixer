@@ -1,5 +1,5 @@
 {
-  "name": "passport-mixer",
+  "name": "passport-mixer2",
   "version": "1.0.0",
   "description": "Mixer (OAuth) authentication strategies for Passport.",
   "main": "./lib/passport-mixer",
